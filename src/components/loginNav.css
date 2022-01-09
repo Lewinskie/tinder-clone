@@ -1,0 +1,42 @@
+.loginNav {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px;
+  background: linear-gradient(to top, transparent, black);
+  color: white;
+  box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  z-index: 10;
+}
+
+.loginNavLeft {
+  display: flex;
+  flex: 9;
+  align-items: center;
+}
+.navLogo {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.topLinkItem {
+  display: flex;
+  margin-left: 30px;
+}
+.topLinkItem:hover {
+  color: red;
+  text-decoration: underline;
+}
+.loginNavRight {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex: 3;
+}
+.navLang {
+  display: flex;
+}

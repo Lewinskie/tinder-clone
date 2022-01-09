@@ -1,0 +1,8 @@
+.footerBottom {
+  padding: 20px 50px;
+  padding-bottom: 50px;
+}
+.bottomLogos {
+  display: flex;
+  align-items: center;
+}

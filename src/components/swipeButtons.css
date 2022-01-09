@@ -1,0 +1,31 @@
+.swipeButtons {
+  position: fixed;
+  bottom: 2.5vh;
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+.bottomIcons {
+  background: pink;
+  box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) !important;
+}
+.swipeButtonsRepeat {
+  padding: 1.5vw !important;
+  color: #f5b748 !important;
+}
+.swipeButtonsLeft {
+  padding: 1.5vw !important;
+  color: #ec5e6f !important;
+}
+.swipeButtonsStar {
+  padding: 1.5vw !important;
+  color: #62b4f9 !important;
+}
+.swipeButtonsRight {
+  padding: 1.5vw !important;
+  color: #76e2b3 !important;
+}
+.swipeButtonsLightning {
+  padding: 1.5vw !important;
+  color: #915dd1 !important;
+}
